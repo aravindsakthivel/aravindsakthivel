@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Aravind :wave:</h1>
-<p align="center">Seeking for a Full stack developer role, where I can strive hard to expose my skills. I put up my dedication , proactiveness in the best possible way for the fulfillment of organizational goals.</p>
-<p align="center">View my portfolio <a href="https://aravindsakthivel.github.io/">aravindsakthivel.github.io/</a></p>
+<p align="center">Full Stack Developer (MongoDB, Express.js, ReactJS, NodeJs). Always willing to learn something new. Ready to face challenges. Simple Living, Creative Thinking, Friendly and Adaptive Nature.</p>
+<p align="center">View my portfolio <a href="https://aravindsakthivel.github.io/" target="_blank">aravindsakthivel.github.io/</a></p>
 <p align="center">
-<a href="https://twitter.com/realaravindan"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" width="40" height="40" style="padding:10px;"/></a>
-<a href="https://www.linkedin.com/in/aravindansakthivel"/> <img src="https://www.westendhba.ca/wp-content/uploads/2019/05/157-1571709_follow-us-high-resolution-linkedin-logo.jpg" width="40" height="40" style="padding:10px;"/> </a>
+<a href="https://twitter.com/realaravindan" target="_blank" ><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" width="40" height="40" style="padding:10px;"/></a>
+<a href="https://www.linkedin.com/in/aravindansakthivel" target="_blank" /> <img src="https://www.westendhba.ca/wp-content/uploads/2019/05/157-1571709_follow-us-high-resolution-linkedin-logo.jpg" width="40" height="40" style="padding:10px;"/> </a>
 </p>
 <h1></h1>
 <h3 align="center">Full Stack Developer With Tech Stack of</h3><br />
