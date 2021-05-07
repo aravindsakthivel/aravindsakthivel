@@ -1,25 +1,31 @@
 <h1 align="center">Hi , I'm Aravind :wave:</h1>
 <p align="center">Full Stack Developer (MongoDB, Express.js, ReactJS, NodeJs). Always willing to learn something new. Ready to face challenges. Simple Living, Creative Thinking, Friendly and Adaptive Nature.</p>
 <p align="center">View my portfolio <a href="https://aravindsakthivel.github.io/" target="_blank">aravindsakthivel.github.io/</a></p>
-<p align="center">
-<a href="https://twitter.com/realaravindan" target="_blank" ><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" width="40" height="40" style="padding:10px;"/></a>
-<a href="https://www.linkedin.com/in/aravindansakthivel" target="_blank" /> <img src="https://www.westendhba.ca/wp-content/uploads/2019/05/157-1571709_follow-us-high-resolution-linkedin-logo.jpg" width="40" height="40" style="padding:10px;"/> </a>
+
+### Connect with me:
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+
+### Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge&logoColor=white">
+  <img src="https://camo.githubusercontent.com/0d4cf8449b112be3a6880161c2c766db23f72b19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d253333393933332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e4a73266c6f676f436f6c6f723d7768697465" />
+  <img src="https://img.shields.io/badge/GIT%20-%23cb3a37.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-<h1></h1>
-<h3 align="center">Full Stack Developer With Tech Stack of</h3><br />
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40" style="padding:10px;"/>
- <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" width="40" height="40" style="padding:10px;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" style="padding:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" style="padding:10px;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="40" height="40" style="padding:10px;"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" width="40" height="40" style="padding:10px;object-fit:contain"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40" style="padding:10px;"/> 
-    <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40" style="padding:10px;"/> 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40" style="padding:10px;object-fit:contain"/> 
-  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40" style="padding:10px;object-fit:contain"/> 
- </p>
- <h1></h1>
+<br/>
+<br/>
  
   <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=aravindsakthivel&theme=dark&show_icons=true&count_private=true" height="207px" /> 
@@ -27,4 +33,5 @@
 
 </P>
     
-
+[twitter]: https://twitter.com/realaravindan
+[linkedin]: https://www.linkedin.com/in/aravindansakthivel/
