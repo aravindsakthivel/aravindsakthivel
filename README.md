@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Aravind :wave:</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Aravind </h1>
 <p align="center">Full Stack Developer (MongoDB, Express.js, ReactJS, NodeJs). Always willing to learn something new. Ready to face challenges. Simple Living, Creative Thinking, Friendly and Adaptive Nature.</p>
 <p align="center">View my portfolio <a href="https://aravindsakthivel.github.io/" target="_blank">aravindsakthivel.github.io/</a></p>
 
